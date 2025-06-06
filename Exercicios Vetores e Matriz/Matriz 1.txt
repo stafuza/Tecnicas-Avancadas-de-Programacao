@@ -1,0 +1,23 @@
+using System;
+class Exercicio1Matriz
+{
+    static void Main()
+    {
+        int[,] matriz = new int[5, 5];
+        Console.WriteLine("Digite os valores da matriz 5x5:");
+        for (int i = 0; i < 5; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                matriz[i, j] = int.Parse(Console.ReadLine());
+            }
+        }
+        int somaDiagPrimaria = 0, somaDiagSecundaria = 0;
+        for (int i = 0; i < 5; i++)
+        {
+            somaDiagPrimaria += matriz[i, i];
+            somaDiagSecundaria += matriz[i, 4 - i];
+        }
+        Console.WriteLine($"Resultado: {somaDiagPrimaria - somaDiagSecundaria}");
+    }
+}

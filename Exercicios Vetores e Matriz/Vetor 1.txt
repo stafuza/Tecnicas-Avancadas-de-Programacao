@@ -1,0 +1,29 @@
+using System;
+class Exercicio1Vetor
+{
+    static bool Primo(int num)
+    {
+        if (num < 2) return false;
+        for (int i = 2; i * i <= num; i++)
+        {
+            if (num % i == 0) return false;
+        }
+        return true;
+    }
+
+    static void Main()
+    {
+        int[] vetor = new int[10];
+        Console.WriteLine("Digite 10 valores:");
+        for (int i = 0; i < 10; i++)
+        {
+            vetor[i] = int.Parse(Console.ReadLine());
+        }
+        Console.WriteLine("Numeros primos no vetor:");
+        foreach (int num in vetor)
+        {
+            if (Primo(num)) Console.Write(num + " ");
+        }
+        Console.WriteLine();
+    }
+}

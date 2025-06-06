@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CrudProdutoFornecedor",
+    "\\CrudProdutoFornecedor\\Migrations",
+    "\\CrudProdutoFornecedor\\Models",
+    "\\CrudProdutoFornecedor\\Views",
+    "\\CrudProdutoFornecedor\\Views\\Fornecedor",
+    "\\CrudProdutoFornecedor\\Views\\Home"
+  ],
+  "SelectedNode": "\\CrudProdutoFornecedor\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|d:\\pen drive enzo\\[4\u00BA ads] fatec - jales\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\cadastro\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|solutionrelative:controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|d:\\pen drive enzo\\[4\u00BA ads] fatec - jales\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\cadastro\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|d:\\pen drive enzo\\[4\u00BA ads] fatec - jales\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\cadastro\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|solutionrelative:controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|d:\\pen drive enzo\\[4\u00BA ads] fatec - jales\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\cadastro\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|solutionrelative:views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|d:\\pen drive enzo\\[4\u00BA ads] fatec - jales\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\cadastro\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|solutionrelative:views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417184058_AdicionarCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250417184058_AdicionarCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417184005_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250417184005_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|d:\\pen drive enzo\\[4\u00BA ads] fatec - jales\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\cadastro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|d:\\pen drive enzo\\[4\u00BA ads] fatec - jales\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\cadastro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89191F58-A13E-495A-86A2-D5D44B0C68B4}|Cadastro.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417183629_AdicionarCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250417183629_AdicionarCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417183425_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250417183425_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:55:55.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T19:53:52.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:34:16.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250417184058_AdicionarCategoria.cs",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417184058_AdicionarCategoria.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250417184058_AdicionarCategoria.cs",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417184058_AdicionarCategoria.cs",
+              "RelativeToolTip": "Migrations\\20250417184058_AdicionarCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:40:59.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250417184005_Inicial.cs",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417184005_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250417184005_Inicial.cs",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417184005_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250417184005_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:40:05.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutosController.cs",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAIAwwJwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:33:15.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Create.cshtml",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T19:51:48.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T18:38:46.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250417183629_AdicionarCategoria.cs",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417183629_AdicionarCategoria.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250417183629_AdicionarCategoria.cs",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417183629_AdicionarCategoria.cs",
+              "RelativeToolTip": "Migrations\\20250417183629_AdicionarCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:36:29.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250417183425_Inicial.cs",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417183425_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250417183425_Inicial.cs",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\Migrations\\20250417183425_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250417183425_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:34:25.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\pen drive enzo\\[4\u00BA ADS] FATEC - Jales\\Tecnicas Avan\u00E7adas de Programa\u00E7\u00E3o\\Cadastro\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T18:16:54.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

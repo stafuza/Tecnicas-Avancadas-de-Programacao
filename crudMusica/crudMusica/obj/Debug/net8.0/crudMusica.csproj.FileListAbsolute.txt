@@ -1,0 +1,9 @@
+C:\Users\Aluno\source\repos\crudMusica\crudMusica\obj\Debug\net8.0\crudMusica.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\crudMusica\crudMusica\obj\Debug\net8.0\crudMusica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\crudMusica\crudMusica\obj\Debug\net8.0\crudMusica.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\crudMusica\crudMusica\obj\Debug\net8.0\crudMusica.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\crudMusica\crudMusica\obj\Debug\net8.0\crudMusica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\crudMusica\crudMusica\obj\Debug\net8.0\crudMusica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\source\repos\crudMusica\crudMusica\obj\Debug\net8.0\crudMusica.RazorAssemblyInfo.cache
+C:\Users\Aluno\source\repos\crudMusica\crudMusica\obj\Debug\net8.0\crudMusica.RazorAssemblyInfo.cs
+C:\Users\Aluno\source\repos\crudMusica\crudMusica\obj\Debug\net8.0\crudMusica.sourcelink.json

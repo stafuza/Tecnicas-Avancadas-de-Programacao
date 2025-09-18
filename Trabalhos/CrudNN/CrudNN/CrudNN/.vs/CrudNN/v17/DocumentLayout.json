@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\views\\vendas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\views\\vendas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\infrastructure\\invariantdecimalmodelbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\infrastructure\\invariantdecimalmodelbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\infrastructure\\invariantdecimalmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\infrastructure\\invariantdecimalmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Migrations\\20250918175630_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudNN\\Migrations\\20250918175630_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Migrations\\20250918175529_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudNN\\Migrations\\20250918175529_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\views\\vendas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\views\\vendas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\views\\vendas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\views\\vendas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\viewmodels\\vendaformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\viewmodels\\vendaformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\viewmodels\\vendaitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\viewmodels\\vendaitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\models\\vendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\models\\vendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|c:\\users\\aluno\\documents\\tecnicas-avancadas-de-programacao\\trabalhos\\crudnn\\crudnn\\crudnn\\crudnn\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06281487-9B2C-4E96-96C4-17D43AD8567D}|CrudNN\\CrudNN.csproj|solutionrelative:crudnn\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Details.cshtml",
+              "RelativeDocumentMoniker": "CrudNN\\Views\\Vendas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Details.cshtml",
+              "RelativeToolTip": "CrudNN\\Views\\Vendas\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T19:21:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CrudNN\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CrudNN\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-18T18:42:37.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudNN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudNN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T18:35:39.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvariantDecimalModelBinderProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Infrastructure\\InvariantDecimalModelBinderProvider.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Infrastructure\\InvariantDecimalModelBinderProvider.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Infrastructure\\InvariantDecimalModelBinderProvider.cs",
+              "RelativeToolTip": "CrudNN\\Infrastructure\\InvariantDecimalModelBinderProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:12:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvariantDecimalModelBinder.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Infrastructure\\InvariantDecimalModelBinder.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Infrastructure\\InvariantDecimalModelBinder.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Infrastructure\\InvariantDecimalModelBinder.cs",
+              "RelativeToolTip": "CrudNN\\Infrastructure\\InvariantDecimalModelBinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:12:24.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250918175630_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Migrations\\20250918175630_initial.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Migrations\\20250918175630_initial.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Migrations\\20250918175630_initial.cs",
+              "RelativeToolTip": "CrudNN\\Migrations\\20250918175630_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:56:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Program.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Program.cs",
+              "RelativeToolTip": "CrudNN\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:23:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Models\\Produto.cs",
+              "RelativeToolTip": "CrudNN\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:28:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250918175529_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Migrations\\20250918175529_initial.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Migrations\\20250918175529_initial.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Migrations\\20250918175529_initial.cs",
+              "RelativeToolTip": "CrudNN\\Migrations\\20250918175529_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:55:29.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudNN\\Views\\Vendas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Delete.cshtml",
+              "RelativeToolTip": "CrudNN\\Views\\Vendas\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T18:14:44.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudNN\\Views\\Vendas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Index.cshtml",
+              "RelativeToolTip": "CrudNN\\Views\\Vendas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T18:13:05.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudNN\\Views\\Vendas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Create.cshtml",
+              "RelativeToolTip": "CrudNN\\Views\\Vendas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T18:12:37.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudNN\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\appsettings.json",
+              "RelativeToolTip": "CrudNN\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T16:21:13.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudNN\\Views\\Vendas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Views\\Vendas\\Edit.cshtml",
+              "RelativeToolTip": "CrudNN\\Views\\Vendas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T18:13:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VendasController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Controllers\\VendasController.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Controllers\\VendasController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Controllers\\VendasController.cs",
+              "RelativeToolTip": "CrudNN\\Controllers\\VendasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:10:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VendaItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\ViewModels\\VendaItemVM.cs",
+              "RelativeDocumentMoniker": "CrudNN\\ViewModels\\VendaItemVM.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\ViewModels\\VendaItemVM.cs",
+              "RelativeToolTip": "CrudNN\\ViewModels\\VendaItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:06:11.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "CrudNN\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:03:26.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "CrudNN\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:02:07.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VendaFormVM.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\ViewModels\\VendaFormVM.cs",
+              "RelativeDocumentMoniker": "CrudNN\\ViewModels\\VendaFormVM.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\ViewModels\\VendaFormVM.cs",
+              "RelativeToolTip": "CrudNN\\ViewModels\\VendaFormVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:06:49.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VendaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Models\\VendaProduto.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Models\\VendaProduto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Models\\VendaProduto.cs",
+              "RelativeToolTip": "CrudNN\\Models\\VendaProduto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:30:40.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Models\\Venda.cs",
+              "RelativeToolTip": "CrudNN\\Models\\Venda.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:29:34.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Models\\Cliente.cs",
+              "RelativeToolTip": "CrudNN\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:27:55.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CrudNN\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Tecnicas-Avancadas-de-Programacao\\Trabalhos\\CrudNN\\CrudNN\\CrudNN\\CrudNN\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CrudNN\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:31:47.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
